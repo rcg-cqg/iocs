@@ -1,0 +1,76 @@
+#Indicators of Compromise
+#Domains 
+7-eleven-hr.com
+activecampiagn.net
+acwa-apple.com
+bbtplus.com
+bell-hr.com
+bestbuy-cdn.com
+birdsso.com
+citrix-okta.com
+commonspiritcorp-okta.com
+consensys-okta.com
+corp-hubspot.com
+cts-comcast.com
+doordash-support.com
+duelbits-cdn.com
+freshworks-hr.com
+gemini-sso.com
+gucci-cdn.com
+itbit-okta.com
+iyft.net
+klaviyo-hr.com
+login.freshworks-hr.com
+login.hr-intercom.com
+morningstar-okta.com
+mytsl.net
+okta-ziffdavis.com
+
+pfchangs-support.com
+prntsrc.net
+pure-okta.com
+signin-nydig.com
+simpletexting-cdn.com
+squarespacehr.com
+sytemstern.net
+sso-instacart.com
+sts-vodafone.com
+twitter-okta.com
+xn--gryscale-ox0d.com
+x-sso.com
+
+#Indicators of Compromise
+#C2 IPs 
+2.147.68.96
+185.59.221.75
+69.4.234.20
+
+#MD5 – C2 elev_win.exe - 
+8ffac369064a72a36a120c856f502e5d
+#SimpleService.exe - 7
+3c6073e23de262b60104cccaa56f4f7
+#AnyDesk.exe - 
+871eb4b8aefaea1113dd3f08b7cb535c
+
+#SHA 256 
+b9bba02d18bacc4bc8d9e4f70657d381568075590cc9d0e7590327d854224b32
+ba1be94550898eedb10eb73cb5383a2d1050e96ec4df8e0bf680d3e76a9e2429
+d626eb0565fac677fdc13fb0555967dc31e600c74fbbd110b744f8e3a59dd3f9
+1250ba6f25fd60077f698a2617c15f89d58c1867339bfd9ee8ab19ce9943304b
+9f1f11a708d393e0a4109ae189bc64f1f3e312653dcf317a2bd406f18ffcc507
+a31f222fc283227f5e7988d1ad9c0aecd66d58bb7b4d8518ae23e110308dbf91
+07ab218d5c865cb4fe78353340ab923e24a1f2881ec7206520651c5246b1a492
+330730d65548d621d46ed9db939c434bc54cada516472ebef0a00422a5ed5819
+62cd46988f179edf8013515c44cbb7563fc216d4e703a2a2a249fe8634617700
+9479a5dc61284ccc3f063ebb38da9f63400d8b25d8bca8d04b1832f02fac24de
+a4dfa099e1f52256ad4a3b2db961e158832b739126b80677f82b0722b0ea5e59
+ab7d8832e35bba30df50a7cca7cefd9351be4c5e8961be2d0b27db6cd22fc036
+dffd6021bb2bd5b0af676290809ec3a53191dd81c7f70a4b28688a362182986f
+feab413f86532812efc606c3b3224b7c7080ae4aa167836d7233c262985f888c
+
+Get-VeeamCreds.ps1
+.dragonforce_encrypted
+
+CVE-2024-57726
+CVE-2024-57727
+CVE-2024-55728
